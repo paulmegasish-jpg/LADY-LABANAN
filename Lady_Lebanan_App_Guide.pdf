@@ -1,0 +1,180 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2017 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+16 TL
+/F1 15 Tf
+(LADY LEBANAN - Luxury Women's Fashion E-Commerce App) Tj
+/F1 11 Tf
+T*
+(Complete Application Guide, Architecture & Setup Summary) Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+(1. BRAND & DESIGN OVERVIEW) Tj
+T*
+(   - Brand Name: LADY LEBANAN \(Atelier of Timeless Indian Luxury\)) Tj
+T*
+(   - Color Palette: Blush Pink, Pure White, Obsidian Black, Champagne Gold) Tj
+T*
+(   - Typography: Playfair Display \(Headlines\) & Plus Jakarta Sans \(Body\)) Tj
+T*
+(   - Languages Supported: English, Hindi, Bengali \(Live Switcher\)) Tj
+T*
+() Tj
+T*
+(2. DEMO ACCOUNTS & ROLE-BASED ACCESS) Tj
+T*
+(   - Owner Admin Portal:) Tj
+T*
+(       Email: owner@ladylebanan.in) Tj
+T*
+(       Password: Lebanan@Admin1) Tj
+T*
+(       \(Strict role check: Only ADMIN accounts can open Admin Dashboard\)) Tj
+T*
+(   - Customer Demo Account:) Tj
+T*
+(       Email: ananya.c@example.in) Tj
+T*
+(       Password: Ananya@123) Tj
+T*
+(   - Mobile OTP Login: Enter any 10-digit Indian mobile \(+91\) to) Tj
+T*
+(     receive an in-app 6-digit OTP verification banner.) Tj
+T*
+(   - Guest Mode: Available directly on the welcome screen.) Tj
+T*
+() Tj
+T*
+(3. CUSTOMER FEATURES) Tj
+T*
+(   - Home: Campaign hero banners, festival coupons \(DIWALI20, LEBANAN15,) Tj
+T*
+(     BRIDAL10\), 10 categories, Signature & Trending edits.) Tj
+T*
+(   - 10 Product Categories: Sarees, Kurtis, Dresses, Tops, Jeans,) Tj
+T*
+(     Western Wear, Ethnic Wear, Party Wear, Co-ord Sets, Accessories.) Tj
+T*
+(   - Product Details: Swipeable photo gallery & runway video reel,) Tj
+T*
+(     color swatches, XS-XXL size selector + Size Guide, Verified Reviews.) Tj
+T*
+(   - Pan-India PIN Code Checker: Validates 6-digit Indian PIN codes) Tj
+T*
+(     \(e.g., 110001 Delhi, 400001 Mumbai, 700016 Kolkata\) with ETA & COD.) Tj
+T*
+(   - Indian Payment Gateways: UPI, Google Pay, PhonePe, Debit/Credit Card,) Tj
+T*
+(     Net Banking \(HDFC, ICICI, SBI, Axis, Kotak\), Cash on Delivery \(COD\).) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1967 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+16 TL
+T*
+(4. ORDERS, TRACKING & SUPPORT) Tj
+T*
+(   - 6-Step Courier Order Tracker \(Placed -> Confirmed -> Packed ->) Tj
+T*
+(     Shipped -> Out for Delivery -> Delivered\) with AWB number.) Tj
+T*
+(   - Pre-shipment Cancellation & Delivered Return/Refund requests.) Tj
+T*
+(   - Multiple Pan-India Delivery Addresses across 29 Indian States.) Tj
+T*
+(   - Notifications Inbox & Android System Notifications.) Tj
+T*
+(   - Customer Support Tickets & Legal Pages \(About Us, Contact Us,) Tj
+T*
+(     Privacy Policy, Terms & Conditions, Return Policy, Shipping Policy\).) Tj
+T*
+() Tj
+T*
+(5. OWNER ADMIN DASHBOARD \(COMPLETE CONTROL\)) Tj
+T*
+(   - Analytics: Revenue \(INR\), Order Count, AOV, Customers, Canvas Chart,) Tj
+T*
+(     and Low-Stock Inventory Alerts.) Tj
+T*
+(   - Products: Add/Edit/Delete products, prices, MRP, sizes, colors,) Tj
+T*
+(     stock count, and pick photos/videos via Android Photo Picker.) Tj
+T*
+(   - Orders & Refunds: Update status, courier, AWB, approve refunds.) Tj
+T*
+(   - Marketing: Manage Banners, Festival Coupons, Categories, and) Tj
+T*
+(     broadcast Push Notifications to all customers.) Tj
+T*
+(   - Store & Support: Reply to Support Tickets, edit Delivery/COD fees,) Tj
+T*
+(     edit Website/Policy content, toggle Maintenance Mode.) Tj
+T*
+() Tj
+T*
+(6. DATABASE & TECHNICAL STACK) Tj
+T*
+(   - UI Framework: Kotlin + Jetpack Compose + Material Design 3) Tj
+T*
+(   - Local Persistence: Room SQLite \(13 entities\) + DataStore Preferences) Tj
+T*
+(   - Package / Application ID: com.aistudio.ladylebanan.vqxkpm) Tj
+T*
+(   - Min SDK: 24 | Target SDK: 36) Tj
+T*
+() Tj
+T*
+(7. HOW TO DOWNLOAD OR BUILD THE APK) Tj
+T*
+(   - Debug APK built at: app/build/outputs/apk/debug/app-debug.apk) Tj
+T*
+(   - In Google AI Studio: Use the top-right Settings / Export menu to) Tj
+T*
+(     Download APK / AAB or Export Project as ZIP to open in Android Studio.) Tj
+T*
+(   - Command Line Build: Run 'gradle :app:assembleDebug') Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000002386 00000 n 
+0000002512 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4531
+%%EOF
